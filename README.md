@@ -13,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live demo](https://calculator40042.netlify.app/)
+coming soon
 
 ## Built With
 

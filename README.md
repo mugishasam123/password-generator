@@ -68,7 +68,7 @@ $ npm run dev # this will open it in the browser and enable hot reloading
 #### Build project
 
 ```bash
-$ npm run build # this will generate bundled file and set watch flag for live building.
+$ npm run build # this will generate bundled file.
 ```
 
 <br>

@@ -4,8 +4,8 @@
 
 > Pass-gen is an app that allows you to generate random password with some criterias such as uppercase,lowercase,number,symbols.
 
-<br/>
-![Screenshot from 2023-03-03 19-00-31](https://user-images.githubusercontent.com/90524466/222781638-1d66f15a-0082-442f-9e54-3e356c72fc8a.png)
+<br/>![Screenshot from 2023-03-03 19-04-55](https://user-images.githubusercontent.com/90524466/222782465-bc849702-4217-49e9-a739-4e7a916fbf8e.png)
+
 
 <br/>
 
